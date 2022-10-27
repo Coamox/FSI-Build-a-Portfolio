@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(83, 81, 120);
+
+}
+div {
+    text-align: center;
+    
+}
+p {
+    border: 5px solid rgb(0, 0, 0);
+    font: 20px monospace;
+}
+
+img {
+    border: 5px solid rgb(178, 0, 0);
+}
+ul {
+    display: inline-block;
+    font: 20px monospace;
+}
+
+li {
+    
+    font: 20px monospace;
+}
+
+h1 {
+    font: 40px monospace;
+    color: red;
+}
+
+h2 {
+    font: 40px monospace;
+    color: red;
+}
+
+h3 {
+    font: 40px monospace;
+    
+}
